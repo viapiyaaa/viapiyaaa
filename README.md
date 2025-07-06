@@ -34,19 +34,19 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<p align="left">
+<a href="https://github.com/viapiyaaa/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viapiyaaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viapiyaaa&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eviafiyatussolihah/"><img src="https://img.shields.io/badge/-Evi%20Afiyatus%20Solihah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eviafiyatuss@gmail.com"><img src="https://img.shields.io/badge/-eviafiyatuss@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/eviafiyatus_"><img src="https://img.shields.io/badge/-@eviafiyatus_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
-<p align="left">
-<a href="https://github.com/viapiyaaa/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viapiyaaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viapiyaaa&layout=compact&theme=algolia"/>
-</a>
 </p>
 
 

@@ -9,8 +9,8 @@ Aktif juga dalam organisasi kemahasiswaan dan terbiasa bekerja dalam tim, saya p
 Jika kamu tertarik untuk berdiskusi atau berkolaborasi, silakan terhubung melalui akun [LinkedIn saya](https://www.linkedin.com/in/eviafiyatussolihah/).
 
 <p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+<a href="https://github.com/viapiyaaa/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viapiyaaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viapiyaaa&layout=compact&theme=algolia"/>
 </a>
 </p>

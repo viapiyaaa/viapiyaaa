@@ -1,4 +1,4 @@
-# Halo semua! Perkenalkan, saya **Evi Afiyatus Solihah**
+# Hello everyone! I am Evi Afiyatus Solihah
 
 💡 I enjoy exploring new technologies and building machine learning-based solutions and web applications.  
 🎓 I am a Computer Engineering student at Universitas Pendidikan Indonesia, with great interest in Machine Learning, Artificial Intelligence, and intelligent system development.  
@@ -8,7 +8,7 @@
 👥 Active in organizational activities, I am used to working in teams and have high attention to detail and neat documentation.  
 💬 Feel free to contact me if you want to discuss AI/ML, project collaboration, or just chat about technology!  
 ✉️ Email me at **eviafiyatuss@gmail.com** - I'll try to respond as soon as possible.  
-📄 See [CV](https://www.linkedin.com/in/eviafiyatussolihah/) for more details. Open to feedback, collaborations, or other exciting opportunities!  
+📄 See [CV](https://drive.google.com/file/d/1NmODyk-yQDDhvKtnwNf99fPYbX5M2RsE/view?usp=sharing) for more details. Open to feedback, collaborations, or other exciting opportunities!  
 
 
 ### 🛠 &nbsp;Tech Stack

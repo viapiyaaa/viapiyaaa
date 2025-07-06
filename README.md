@@ -1,16 +1,16 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**viapiyaaa/viapiyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan, saya **Evi Afiyatus Solihah**, seorang mahasiswi Teknik Komputer yang memiliki ketertarikan besar pada bidang **Machine Learning**, **Artificial Intelligence**, dan pengembangan sistem cerdas.
 
-Here are some ideas to get you started:
+Saya pernah mengikuti program **Machine Learning Engineer** di [Dicoding](https://www.dicoding.com/) melalui *DBS Foundation Coding Camp*, di mana saya membangun berbagai proyek berbasis data, seperti sistem klasifikasi gambar, analisis sentimen, sistem rekomendasi, hingga prediksi berbasis data. Saya juga memiliki pengalaman mengembangkan aplikasi web menggunakan Flask dan menerapkan model deep learning dalam konteks nyata.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aktif juga dalam organisasi kemahasiswaan dan terbiasa bekerja dalam tim, saya percaya bahwa kolaborasi dan ketekunan adalah kunci dalam membangun solusi teknologi yang berdampak.
+
+Jika kamu tertarik untuk berdiskusi atau berkolaborasi, silakan terhubung melalui akun [LinkedIn saya](https://www.linkedin.com/in/eviafiyatussolihah/).
+
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>

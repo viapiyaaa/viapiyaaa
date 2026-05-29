@@ -1,38 +1,68 @@
-# Hello everyone! I am Evi Afiyatus Solihah
+# Hi there 👋
 
-💡 I enjoy exploring new technologies and building machine learning-based solutions and web applications.  
-🎓 I am a Computer Engineering student at Universitas Pendidikan Indonesia, with great interest in Machine Learning, Artificial Intelligence, and intelligent system development.  
-🧠 I have experience in data processing, machine learning model development, and model implementation through simple web interfaces for academic and independent projects.  
-🌱 Currently, I continue to explore topics such as Deep Learning, Computer Vision, NLP, both through lectures and training programs such as Machine Learning Engineer at Dicoding.  
-🛠️ I have developed projects such as CNN-based garbage classification system, movie recommendation system, sentiment classification of app reviews, footwear image classification, and obesity category prediction with Machine Learning models.  
-👥 Active in organizational activities, I am used to working in teams and have high attention to detail and neat documentation.  
-💬 Feel free to contact me if you want to discuss AI/ML, project collaboration, or just chat about technology!  
-✉️ Email me at **eviafiyatuss@gmail.com** - I'll try to respond as soon as possible.  
-📄 See [CV](https://drive.google.com/file/d/1NmODyk-yQDDhvKtnwNf99fPYbX5M2RsE/view?usp=sharing) for more details. Open to feedback, collaborations, or other exciting opportunities!  
+I'm a Computer Engineering student at Universitas Pendidikan Indonesia with interests in Software Development, Machine Learning, Artificial Intelligence, and intelligent system development.
+
+I have experience in:
+- Web Application Development
+- Machine Learning & Deep Learning
+- Computer Vision & NLP
+- Data Processing & ETL Pipeline
+- AI-based System Integration
+
+Currently exploring:
+- Intelligent Web Applications
+- Deep Learning
+- Recommendation Systems
+- AI Integration for Real-World Applications
+
+Some projects I’ve built:
+- CNN-based Waste Classification System
+- Rice Leaf Disease Classification System
+- Movie Recommendation System
+- Sentiment Analysis Application
+- Footwear Image Classification System
+- Automated ETL Pipeline
+
+Tech Stack:
+Python • TensorFlow • Streamlit • Flask • PHP • MySQL • JavaScript • HTML/CSS • React • Git/GitHub
+
+Feel free to connect or collaborate on software development and AI/ML projects.
+
+📫 Email: eviafiyatuss@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Flask](https://img.shields.io/badge/-fLASK-05122A?style=flat&logo=flask)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
-![Seaborn](https://img.shields.io/badge/-seaborn-05122A?style=flat&logo=seaborn)&nbsp;
-![Streamlit](https://img.shields.io/badge/-streamlit-05122A?style=flat&logo=streamlit)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Keras](https://img.shields.io/badge/-keras-05122A?style=flat&logo=keras)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/-streamlit-05122A?style=flat&logo=streamlit)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+![Seaborn](https://img.shields.io/badge/-seaborn-05122A?style=flat&logo=seaborn)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 <p align="left">
 <a href="https://github.com/viapiyaaa/">

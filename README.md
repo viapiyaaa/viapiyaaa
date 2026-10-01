@@ -1,19 +1,17 @@
-# Hi there 👋
+# Hi, I'm Evi Afiyatus Solihah 👋
 
-I'm a Computer Engineering student at Universitas Pendidikan Indonesia with interests in Software Development, Machine Learning, Artificial Intelligence, and intelligent system development.
+🎓 Computer Engineering graduate from Universitas Pendidikan Indonesia with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
 
-I have experience in:
+I enjoy developing AI-based solutions, from data preparation and model development to evaluation and application deployment. I also have experience working with Generative AI and OpenAI API to build AI-powered applications.
+
+🧠 Areas of Interest: 
+- Artificial Intelligence & Machine Learning
+- Deep Learning & Computer Vision
+- Natural Language Processing
+- Generative AI & LLM Applications
+- AI Model Development & Deployment
+- Data Processing & Analytics
 - Web Application Development
-- Machine Learning & Deep Learning
-- Computer Vision & NLP
-- Data Processing & ETL Pipeline
-- AI-based System Integration
-
-Currently exploring:
-- Intelligent Web Applications
-- Deep Learning
-- Recommendation Systems
-- AI Integration for Real-World Applications
 
 Some projects I’ve built:
 - CNN-based Waste Classification System
@@ -36,7 +34,6 @@ Feel free to connect or collaborate on software development and AI/ML projects.
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Flask](https://img.shields.io/badge/-fLASK-05122A?style=flat&logo=flask)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;

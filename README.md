@@ -13,16 +13,16 @@ I enjoy developing AI-based solutions, from data preparation and model developme
 - Data Processing & Analytics
 - Web Application Development
 
-Some projects I’ve built:
-- CNN-based Waste Classification System
-- Rice Leaf Disease Classification System
-- Movie Recommendation System
-- Sentiment Analysis Application
-- Footwear Image Classification System
-- Automated ETL Pipeline
+🚀 Featured Projects
 
-Tech Stack:
-Python • TensorFlow • Streamlit • Flask • PHP • MySQL • JavaScript • HTML/CSS • React • Git/GitHub
+🌾 PadiDetect — Rice Leaf Disease Classification
+Vision-enabled chatbot combining MobileNetV3 and GPT-4o for rice leaf disease classification and AI-powered guidance.
+
+♻️ TrashGu — Waste Detection & Classification
+CNN-based waste classification system built with TensorFlow and Keras, integrated into a web-based application for real-time prediction.
+
+📱 Gojek App Review Sentiment Analysis
+LSTM-based sentiment analysis system for classifying user reviews into positive, neutral, and negative sentiments.
 
 Feel free to connect or collaborate on software development and AI/ML projects.
 
